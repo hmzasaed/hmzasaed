@@ -3,6 +3,7 @@
   
 
 ### <div align="center">I'm Hamza a full-time full-stack developer 👨‍💻 working remotely since 2023🚀 🇵🇰</div>  
+<hr>
   <div align="center">
 <img src="Black and Gold Tech Website Developer LinkedIn Banner.jpg" align="center" style="width: 100%" />
 </div>
