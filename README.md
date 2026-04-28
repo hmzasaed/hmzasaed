@@ -1,38 +1,18 @@
-# Hamza Saeed
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmzasaed%2Fhmzasaed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/hmzasaed1)](https://twitter.com/https://x.com/hmzasaed1)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/feed//)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hhmza.m8@gmail.com)
-
-[![Github](https://img.shields.io/github/followers/hmzasaed?label=Follow&style=social)](https://github.com/hmzasaed)
-
-I'm Hamza a full-time full-stack developer 👨‍💻 working remotely since 2023🚀 🇵🇰
+# 💫 About Me:
+I’m a Blockchain Developer transitioning into a **Smart Contract Security Engineer**, focused on building and securing decentralized systems on Ethereum and EVM-compatible networks. With 3+ years of experience in Web3, I’ve worked across smart contract development, DeFi applications, and full-stack dApp architecture.<br><br>My current focus is on **smart contract auditing, vulnerability detection, and secure system design**. I actively study real-world exploits and attack patterns to better understand how to protect decentralized applications from risks like reentrancy, logic flaws, and access control issues.<br><br>I enjoy working at the intersection of **security, blockchain, and real-world problem solving**, and I aim to contribute to building trustless systems that are not just functional—but secure, scalable, and reliable.<br>
 
 
-- 🤔 I’m currently learning Rust and about Blockchain.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hmzasaedd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hmzasaed1) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hamza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhmza.m8@gmail.com) 
 
-- ⚡ Fun fact: Notning Special😱
-
-- 📫 How to reach me: hhmza.m8@gmail.com
-
-
-### 🖥 Skills
-
-- Blockchain Software Dev
-- Full Stack Dev
-- Rust 
-- Web3.0 & Crypto enthusiast
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Html-05122A?style=flat-square&logo=Html&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Solidity-05122A?style=flat-square&logo=Solidity&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=Rust&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-05122A?style=flat-square&logo=Data-Structures-&-Algorithms&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-REST-05122A?style=flat-square&logo=REST&color=353535) ![Bootstrap](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express%20-05122A?style=flat-square&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-React.js-05122A?style=flat-square&logo=React.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-web3.js%20-05122A?style=flat-square&logo=web3.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-ethers.js-05122A?style=flat-square&logo=ethers.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat-square&logo=Microsoft-Azure&color=353535) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=AWS&color=353535) ![Bootstrap](https://img.shields.io/badge/-APIs-05122A?style=flat-square&logo=APIs&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Blockchain-05122A?style=flat-square&logo=Blockchain&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-CryptoCurrencies-05122A?style=flat-square&logo=CryptoCurrencies&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ethereum-05122A?style=flat-square&logo=Ethereum&color=353535) ![Bootstrap](https://img.shields.io/badge/-Polygon-05122A?style=flat-square&logo=Polygon&color=353535) ![Bootstrap](https://img.shields.io/badge/-ChainLink-05122A?style=flat-square&logo=ChainLink&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmzasaed&show_icons=true&locale=en&layout=compact" alt="hmzasaed" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hmzasaed&" alt="hmzasaed" />
-</div>
-
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hmzasaed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hmzasaed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmzasaed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+[![](https://komarev.com/ghpvc/?username=hmzasaed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
