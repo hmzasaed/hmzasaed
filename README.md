@@ -90,17 +90,6 @@ Tools & Design
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hmzasaed&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hmzasaed&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hmzasaed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
 🌐 Connect with me
 
