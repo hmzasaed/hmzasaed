@@ -1,101 +1,88 @@
-<h1 align="center">Hi there, I'm Hamza Saeed 👋</h1>
-<h3 align="center">Blockchain & Web3 Developer · Deep Learning Engineer</h3>
+<h1 align="center">Hi, I'm Hamza Saeed 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmzasaed&style=flat-square&color=blue" alt="profile views" />
-  <a href="https://linkedin.com/in/hmzasaedd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/hmzasaed1"><img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=0891b2&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Web3+%2F+Smart+Contract+Dev;Building+Agentic+AI" alt="Typing SVG" />
 </p>
 
-💫 About Me
-
-I'm a Blockchain & Web3 developer transitioning into Smart Contract Security Engineering, with 2+ years building and securing decentralized systems on Ethereum and EVM-compatible networks. I work across smart contract development, DeFi applications, and full-stack dApp architecture — and concurrently work as a Deep Learning Engineer, applying CNNs, Vision Transformers, and NLP models to real-world data problems.
-
-My current focus is smart contract auditing, vulnerability detection, and secure system design — studying real-world exploits and attack patterns (reentrancy, logic flaws, access control issues) to build decentralized applications that are trustless and secure by design.
-
-I work at the intersection of security, blockchain, and AI, partnering with founders and technical teams to architect, build, and scale Web3 products — bringing cryptographic rigor and pragmatic engineering to every project.
-
-
-🔐 Currently exploring smart contract auditing and DeFi security
-🧠 Building deep learning systems (Vision Transformers, medical imaging, explainable AI)
-🎓 BSCS, Lahore Garrison University (2022–2026)
-🌱 Always learning: attack vectors, zero-knowledge proofs, and Layer-2 scaling
-
-
-
-🛠 Featured Project
-
-SeQureChain — Blockchain-Based Evidence Management System (DApp)
-A decentralized application that anchors evidence file hashes immutably on Ethereum Sepolia, stores files on IPFS with content-addressed tamper detection, and replaces passwords with MetaMask wallet authentication. Cross-platform (web/Android/iOS) via React Native + Expo, backed by Node.js/Express and Firebase.
-
-
-✅ 100% blockchain confirmation across 50 end-to-end test uploads
-✅ 100% tamper detection across 20 simulated attacks
-✅ ~22 second average upload time
-
-
-
-💻 Tech Stack
-
-Blockchain & Web3
-
-<p>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-<img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
-Deep Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-Full-Stack Development
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-Databases & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-Tools & Design
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed&left_color=1c1917&right_color=0891b2" alt="Visitors" />
+  </a>
 </p>
 
+---
 
-🌐 Connect with me
+### 🚀 About Me
 
-<p>
-<a href="https://linkedin.com/in/hmzasaedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/hmzasaed1"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://mastodon.social/@Hamza"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+I am a passionate developer focused on the intersection of **Artificial Intelligence** and **Blockchain technology**. I thrive on building intelligent agents and decentralized applications that solve real-world problems.
+
+* 🌍 &nbsp; Based in **Pakistan**
+* 🖥️ &nbsp; Explore my work at [My Portfolio](https://portfolio-beta-gold-41.vercel.app/)
+* 🧠 &nbsp; Deeply diving into **Agentic AI** and LLM Orchestration
+* ✉️ &nbsp; Reach out to me at [hhmza.m8@gmail.com](mailto:hhmza.m8@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40" /></a> &nbsp;
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" width="40" height="40" /></a> &nbsp;
+  <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" width="40" height="40" /></a>
 </p>
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+
+#### 🔗 Web3 & Blockchain Architecture
+<p align="left">
+  <a href="https://ethereum.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" width="40" height="40" /></a> &nbsp;
+  <a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" width="40" height="40" /></a> &nbsp;
+  <a href="https://metamask.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" width="40" height="40" /></a> &nbsp;
+  <a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" alt="Web3.js" width="40" height="40" /></a> &nbsp;
+  <a href="https://ethers.io"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" alt="Ethers.js" width="40" height="40" /></a> &nbsp;
+  <a href="https://ipfs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" alt="IPFS" width="40" height="40" /></a>
+</p>
+
+#### 💻 Full-Stack Development & Databases
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="40" height="40" /></a> &nbsp;
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" /></a> &nbsp;
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40" /></a> &nbsp;
+  <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="40" height="40" /></a>
+</p>
+
+#### 🛠️ Core Tools & Environment
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40" /></a> &nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hamza's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hmzasaed&theme=tokyonight&hide_border=true" alt="Hamza's GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hmzasaedd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://www.github.com/hmzasaed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a> &nbsp;
+  <a href="https://www.x.com/hmzasaed1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> &nbsp;
+  <a href="https://discord.com/users/letsdrinkinheaven" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
