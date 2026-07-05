@@ -16,6 +16,7 @@
 I am a passionate developer focused on the intersection of **Artificial Intelligence** and **Blockchain technology**. I thrive on building intelligent agents and decentralized applications that solve real-world problems.
 
 * 🌍 &nbsp; Based in **Pakistan**
+* 📄 &nbsp; View my [Curriculum Vitae](./CV.pdf)
 * 🖥️ &nbsp; Explore my work at [My Portfolio](https://portfolio-beta-gold-41.vercel.app/)
 * 🧠 &nbsp; Deeply diving into **Agentic AI** and LLM Orchestration
 * ✉️ &nbsp; Reach out to me at [hhmza.m8@gmail.com](mailto:hhmza.m8@gmail.com)
