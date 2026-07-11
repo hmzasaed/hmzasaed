@@ -1,89 +1,177 @@
-<h1 align="center">Hi, I'm Hamza Saeed 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=0891b2&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Web3+%2F+Smart+Contract+Dev;Building+Agentic+AI" alt="Typing SVG" />
-</p>
+<h1 align="center">
+
+𝙃𝙖𝙢𝙯𝙖 𝙎𝙖𝙚𝙚𝙙
+
+</h1>
+
+<h3 align="center">
+AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
+</h3>
 
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed&left_color=1c1917&right_color=0891b2" alt="Visitors" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Agentic+AI+Developer;LLM+Engineer;Web3+%7C+Blockchain+Developer;Building+AI+Products+for+the+Future" />
+
 </p>
 
----
+## 🚀 About Me
 
-### 🚀 About Me
+- 🌍 Based in **Pakistan**
+- 🎓 Computer Science Student
+- 🤖 Building **AI Agents**, **LLM Applications**, and **RAG Systems**
+- 🔗 Passionate about **Blockchain**, **Web3**, and **Smart Contracts**
+- ⚡ Learning **LangGraph**, **MCP**, **Multi-Agent Systems**, and **AI Automation**
+- 🧠 Exploring **Agentic AI**, **LLM Orchestration**, and **AI Infrastructure**
+- 📄 [Resume](./CV.pdf)
+- 🌐 [Portfolio](https://portfolio-beta-gold-41.vercel.app/)
+- 📫 **hhmza.m8@gmail.com**
 
-I am a passionate developer focused on the intersection of **Artificial Intelligence** and **Blockchain technology**. I thrive on building intelligent agents and decentralized applications that solve real-world problems.
+<h3>🤖 Artificial Intelligence & Machine Learning</h3>
 
-* 🌍 &nbsp; Based in **Pakistan**
-* 📄 &nbsp; View my [Curriculum Vitae](./CV.pdf)
-* 🖥️ &nbsp; Explore my work at [My Portfolio](https://portfolio-beta-gold-41.vercel.app/)
-* 🧠 &nbsp; Deeply diving into **Agentic AI** and LLM Orchestration
-* ✉️ &nbsp; Reach out to me at [hhmza.m8@gmail.com](mailto:hhmza.m8@gmail.com)
+<p>
 
----
+<a href="https://python.org">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
 
-### 🛠️ Tech Stack
+<a href="https://pytorch.org">
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>
 
-#### 🤖 Artificial Intelligence & Machine Learning
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40" /></a> &nbsp;
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" width="40" height="40" /></a> &nbsp;
-  <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" width="40" height="40" /></a>
+<a href="https://tensorflow.org">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>
+
+<a href="https://huggingface.co">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45"/>
+</a>
+
+<a href="https://opencv.org">
+<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+</a>
+
+<a href="https://jupyter.org">
+<img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
+</a>
+
 </p>
 
-#### 🔗 Web3 & Blockchain Architecture
-<p align="left">
-  <a href="https://ethereum.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" width="40" height="40" /></a> &nbsp;
-  <a href="https://hardhat.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" width="40" height="40" /></a> &nbsp;
-  <a href="https://metamask.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" width="40" height="40" /></a> &nbsp;
-  <a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" alt="Web3.js" width="40" height="40" /></a> &nbsp;
-  <a href="https://ethers.io"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" alt="Ethers.js" width="40" height="40" /></a> &nbsp;
-  <a href="https://ipfs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" alt="IPFS" width="40" height="40" /></a>
+<h3>🧠 LLM • RAG • Agentic AI</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6929C4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-222222?style=for-the-badge"/>
+
 </p>
 
-#### 💻 Full-Stack Development & Databases
-<p align="left">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="40" height="40" /></a> &nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" /></a> &nbsp;
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40" /></a> &nbsp;
-  <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="40" height="40" /></a>
+<h3>🗂️ Vector Databases</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/Qdrant-EF4E7B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0094FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-00B686?style=for-the-badge"/>
+
 </p>
 
-#### 🛠️ Core Tools & Environment
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" /></a> &nbsp;
-  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40" /></a> &nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40" /></a>
+<h3>⛓️ Blockchain & Web3</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=solidity" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=ethereum" height="45"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" height="45"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" height="45"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" height="45"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" height="45"/>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" height="45"/>
+
 </p>
 
----
+<h3>⚙️ Backend Development</h3>
 
-### 📊 GitHub Analytics
+<p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hamza's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=hmzasaed&theme=tokyonight&hide_border=true" alt="Hamza's GitHub Streak" width="48%" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=supabase" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=redis" height="45"/>
+
 </p>
 
----
+<h3>☁️ DevOps & Cloud</h3>
 
-### 🤝 Connect With Me
+<p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hmzasaedd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://www.github.com/hmzasaed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> &nbsp;
-  <a href="https://www.x.com/hmzasaed1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a> &nbsp;
-  <a href="https://discord.com/users/letsdrinkinheaven" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+
+</p>
+
+<h3>☁️ DevOps & Cloud</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+
 </p>
