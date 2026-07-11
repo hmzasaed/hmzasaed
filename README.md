@@ -1,18 +1,19 @@
-<h1 align="center">
-
-𝙃𝙖𝙢𝙯𝙖 𝙎𝙖𝙚𝙚𝙙
-
-</h1>
-
-<h3 align="center">
-AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
-</h3>
+<h1 align="center">Hi, I'm Ｈａｍｚａ Ｓａｅｅｄ👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=0891b2&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Web3+%2F+Smart+Contract+Dev;Building+Agentic+AI" alt="Typing SVG" />
+</p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Agentic+AI+Developer;LLM+Engineer;Web3+%7C+Blockchain+Developer;Building+AI+Products+for+the+Future" />
-
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hmzasaed.hmzasaed&left_color=1c1917&right_color=0891b2" alt="Visitors" />
+  </a>
 </p>
+
+---
+
+### 🚀 About Me
+
+I am a passionate developer focused on the intersection of **Artificial Intelligence** and **Blockchain technology**. I thrive on building intelligent agents and decentralized applications that solve real-world problems.
 
 ## 🚀 About Me
 
@@ -25,7 +26,11 @@ AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
 - 📄 [Resume](./CV.pdf)
 - 🌐 [Portfolio](https://portfolio-beta-gold-41.vercel.app/)
 - 📫 **hhmza.m8@gmail.com**
+---
 
+### 🛠️ Tech Stack
+
+#### 🤖 Artificial Intelligence & Machine Learning
 <h3>🤖 Artificial Intelligence & Machine Learning</h3>
 
 <p>
@@ -55,7 +60,6 @@ AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
 </a>
 
 </p>
-
 <h3>🧠 LLM • RAG • Agentic AI</h3>
 
 <p>
@@ -80,20 +84,6 @@ AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
 
 </p>
 
-<h3>🗂️ Vector Databases</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/Qdrant-EF4E7B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-0094FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-00B686?style=for-the-badge"/>
-
-</p>
-
 <h3>⛓️ Blockchain & Web3</h3>
 
 <p>
@@ -113,53 +103,65 @@ AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" height="45"/>
 
 </p>
-
-<h3>⚙️ Backend Development</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=supabase" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=redis" height="45"/>
-
-</p>
-
-<h3>☁️ DevOps & Cloud</h3>
+<h3>🗂️ Vector Databases</h3>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://img.shields.io/badge/Qdrant-EF4E7B?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://img.shields.io/badge/FAISS-0094FF?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+<img src="https://img.shields.io/badge/Pinecone-00B686?style=for-the-badge"/>
 
 </p>
 
-## 🏆 GitHub Trophies
+#### 💻 Full-Stack Development & Databases
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="40" height="40" /></a> &nbsp;
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" /></a> &nbsp;
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="40" height="40" /></a> &nbsp;
+  <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="40" height="40" /></a>
+</p>
+
+#### 🛠️ Core Tools & Environment
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" /></a> &nbsp;
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40" /></a> &nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hmzasaed&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hamza's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hmzasaed&theme=tokyonight&hide_border=true" alt="Hamza's GitHub Streak" width="48%" />
 </p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hmzasaedd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://www.github.com/hmzasaed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a> &nbsp;
+  <a href="https://www.x.com/hmzasaed1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> &nbsp;
+  <a href="https://discord.com/users/letsdrinkinheaven" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+update the hugging face logo 
+add moere logos like ipfs make the the Hamza saeed look good use some fonts 
+add more skills 
