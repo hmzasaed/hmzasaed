@@ -44,6 +44,9 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45"/>
+<p>
+  
+</p>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
