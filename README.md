@@ -156,22 +156,10 @@ AI Engineer • Agentic AI • Web3 Developer • Smart Contract Engineer
 
 </p>
 
-<h3>☁️ DevOps & Cloud</h3>
+## 🏆 GitHub Trophies
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hmzasaed&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
