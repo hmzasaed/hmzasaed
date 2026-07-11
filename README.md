@@ -33,7 +33,7 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 
 <h3>🤖 Artificial Intelligence & Machine Learning</h3>
 
-<h3>🤖 AI Engineering</h3>
+
 
 <p align="left">
 
@@ -46,7 +46,7 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45"/>
 <p>
   
-</p>
+</p align="left">
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
