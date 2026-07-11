@@ -1,62 +1,25 @@
-```bash
-╭──────────────────────────────────────────────────────────────╮
-│  👨‍💻  hamza@github                                           │
-├──────────────────────────────────────────────────────────────┤
-
-$ whoami
+```text
+                   ██████╗
+                  ██╔══██╗
+                  ██████╔╝
+                  ██╔══██╗
+                  ██║  ██║
+                  ╚═╝  ╚═╝
 
   Hamza Saeed
-  AI Engineer • Agentic AI • Web3 Developer
+  ──────────────────────────────────────────────
 
-$ education
-
-  🎓 BS Computer Science
-  Lahore Garrison University
-
-$ focus
-
-  🤖 Agentic AI
-  🧠 Large Language Models
-  🔗 Blockchain & Smart Contracts
-  ⚡ AI Automation
-  📚 RAG Systems
-  🚀 Full Stack Development
-
-$ currently_building
-
-  • AI Agents
-  • Multi-Agent Systems
-  • Crypto Smart Contract RAG
-  • AI SaaS Applications
-
-$ tech_stack
-
-  Languages  :: Python • JavaScript • TypeScript • Solidity
-  AI         :: PyTorch • TensorFlow • Hugging Face
-  LLM        :: LangChain • LangGraph • CrewAI • MCP
-  Vector DB  :: Qdrant • Chroma • FAISS • Pinecone
-  Backend    :: FastAPI • Node.js • Express
-  Frontend   :: React • Next.js • Tailwind
-  Database   :: PostgreSQL • MongoDB • Supabase • Firebase
-  DevOps     :: Docker • Git • Linux • GitHub Actions
-
-$ tools
-
-  ChatGPT
-  Claude
-  Gemini
-  Google AI Studio
-  Codex
-  Perplexity
-  Cursor
-  Windsurf
-  GitHub Copilot
-  Kaggle
-  VS Code
-
-$ interests
-
-  Building AI that solves real-world problems.
-
-╰──────────────────────────────────────────────────────────────╯
+  OS        : AI Engineer
+  Host      : Pakistan 🇵🇰
+  Shell     : Agentic AI
+  Editor    : VS Code
+  Languages : Python, JS, TS, Solidity
+  AI        : LangChain, LangGraph, CrewAI
+  Models    : OpenAI, Gemini, Claude, Groq
+  VectorDB  : Qdrant, Chroma, Pinecone, FAISS
+  Backend   : FastAPI, Node.js
+  Frontend  : React, Next.js
+  Database  : PostgreSQL, MongoDB, Supabase
+  Web3      : Solidity, Ethereum, Hardhat, IPFS
+  Learning  : Multi-Agent Systems & AI Infrastructure
 ```
