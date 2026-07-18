@@ -30,6 +30,7 @@
 **🧠 AI / ML / DL**
 - Training and fine-tuning deep learning models, from CNNs to Vision Transformers
 - Designing autonomous multi-agent AI pipelines that go beyond single-prompt tooling
+- Building Generative AI applications and Retrieval-Augmented Generation (RAG) systems on top of vector search
 - Most of what I know here I picked up by building real systems, not just tutorials
 
 **⛓️ Web3 / Blockchain**
@@ -52,21 +53,27 @@
 
 **🐍 Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,solidity&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&amp;theme=dark" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" />
 
 **🤖 AI / Agentic Frameworks**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langgraph&amp;logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&amp;logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=for-the-badge&amp;logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
+<img src="https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
+<img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Generative_AI-0d1b3e?style=for-the-badge&amp;color=00F0FF" />
 <img src="https://img.shields.io/badge/RAG-0d1b3e?style=for-the-badge&amp;color=00F0FF" />
 <img src="https://img.shields.io/badge/MCP-0d1b3e?style=for-the-badge&amp;color=00F0FF" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0d1b3e?style=for-the-badge&amp;color=00F0FF" />
 
 **🧠 Deep Learning &amp; CV**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&amp;theme=dark" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Vision_Transformer-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
 <img src="https://img.shields.io/badge/Swin_Transformer-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
 <img src="https://img.shields.io/badge/Grad--CAM-1C3C3C?style=for-the-badge&amp;color=00F0FF" />
@@ -77,7 +84,7 @@
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&amp;logo=mistralai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&amp;color=FA520F" />
 
 **🗄️ Vector Databases**
 <br/>
@@ -98,7 +105,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&amp;logo=hardhat&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&amp;color=FFF100" />
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&amp;logo=ipfs&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&amp;logo=metamask&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&amp;logoColor=white" />
