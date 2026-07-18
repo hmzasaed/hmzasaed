@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0A0A0F&amp;height=200&amp;section=header&amp;text=HAMZA%20SAEED&amp;fontSize=56&amp;fontColor=B026FF&amp;fontAlignY=38&amp;desc=AI%20%2F%20ML%20%2F%20DL%20Engineer%20%C2%B7%20Web3%20%26%20Blockchain%20Developer&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=24&amp;duration=2600&amp;pause=1200&amp;color=B026FF&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=AI+%2F+ML+%2F+DL+Engineer;Web3+%26+Blockchain+Developer;Building+Generative+AI+%26+RAG+systems;CS+Graduate+%40+Lahore+Garrison+University" alt="Typing SVG" />
