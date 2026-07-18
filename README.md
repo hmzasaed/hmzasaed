@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:0d1b3e,100:00F0FF&height=220&section=header&text=HAMZA%20SAEED&fontSize=60&fontColor=00F0FF&fontAlignY=38&desc=Deep%20Learning%20%26%20AI%20Engineer%20%C2%B7%20Blockchain%20%26%20Web3%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:0d1b3e,100:00F0FF&height=220&section=header&text=HAMZA%20SAEED&fontSize=60&fontColor=00F0FF&fontAlignY=38&desc=AI%20%2F%20ML%20%2F%20DL%20Engineer%20%C2%B7%20Web3%20%26%20Blockchain%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=Training+neural+networks+that+actually+ship;Building+multi-agent+AI+systems+with+LangChain;Anchoring+trust+on-chain+with+Solidity+%2B+IPFS;CS+Graduate+%40+Lahore+Garrison+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&lines=AI+%2F+ML+%2F+DL+Engineer;Web3+%26+Blockchain+Developer;Turning+ideas+into+intelligent%2C+trust-verified+systems;CS+Graduate+%40+Lahore+Garrison+University" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,6 +13,11 @@
 <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-0d1b3e?style=for-the-badge&labelColor=0F0C29&color=00F0FF" />
 <img src="https://img.shields.io/badge/🎓_BS_Computer_Science-0d1b3e?style=for-the-badge&labelColor=0F0C29&color=00F0FF" />
 <img src="https://img.shields.io/badge/⚡_Open_to_Work-0d1b3e?style=for-the-badge&labelColor=0F0C29&color=39FF14" />
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/📄_Resume%2FCV-0d1b3e?style=for-the-badge&labelColor=0F0C29&color=FF6B6B" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1b3e?style=for-the-badge&labelColor=0F0C29&color=00F0FF" /></a>
 
 </div>
 
@@ -22,22 +27,11 @@
 
 ## 🧬 About Me
 
-```python
-class HamzaSaeed:
-    def __init__(self):
-        self.role      = ["Deep Learning & AI Engineer", "Blockchain & Web3 Developer"]
-        self.education = "BS Computer Science — Lahore Garrison University (2022–2026)"
-        self.focus     = "multi-agent AI systems · smart contracts · full-stack apps"
-        self.philosophy = "solve real problems with the right tools, not just the newest ones"
-
-    def current_work(self):
-        return [
-            "🧠 Training & fine-tuning neural networks (ViT, Swin Transformer)",
-            "🤖 Designing autonomous multi-agent AI pipelines (LangChain/LangGraph)",
-            "⛓️  Building smart-contract-backed DApps on Ethereum",
-            "🔐 Replacing passwords with cryptographic, wallet-based auth"
-        ]
-```
+- 🧠 I work across two worlds that don't usually meet — training and fine-tuning **deep learning models**, and shipping **smart-contract-backed** applications on-chain
+- 🤖 Most of what I know I picked up by building — autonomous agent pipelines, computer-vision research, and DApps with real cryptographic guarantees, not just tutorials
+- ⚡ I move fast across the stack when a problem needs it — model layer, backend, frontend, or infrastructure
+- 🎯 My rule of thumb: reach for the tool that actually fits the problem, not whatever's newest
+- 🎓 Wrapping up a Computer Science degree at Lahore Garrison University, with coursework spanning Deep Learning, AI, Information Security, and Software Engineering
 
 <br/>
 
@@ -60,6 +54,13 @@ class HamzaSaeed:
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/RAG-0d1b3e?style=for-the-badge&color=00F0FF" />
 <img src="https://img.shields.io/badge/MCP-0d1b3e?style=for-the-badge&color=00F0FF" />
+
+**🧠 Deep Learning & CV**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Vision_Transformer-1C3C3C?style=for-the-badge&color=00F0FF" />
+<img src="https://img.shields.io/badge/Swin_Transformer-1C3C3C?style=for-the-badge&color=00F0FF" />
+<img src="https://img.shields.io/badge/Grad--CAM-1C3C3C?style=for-the-badge&color=00F0FF" />
 
 **🧠 Models & Platforms**
 <br/>
@@ -106,69 +107,6 @@ class HamzaSaeed:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0F0C29&height=2&width=100%25" />
 
-## 🚀 Flagship Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 SeQureChain
-**Blockchain-Based Evidence Management DApp**
-
-Anchors SHA-256 hashes of digital evidence on Ethereum Sepolia via a custom `EvidenceManager.sol` contract, with files pinned to IPFS for tamper-evident storage. MetaMask wallet-signature login replaces passwords entirely.
-
-**Results:** 100% blockchain confirmation · 100% tamper detection · ~22s avg. upload · 50/50 concurrent uploads, zero failures
-
-`Solidity` `Hardhat` `Ethereum Sepolia` `IPFS/Pinata` `MetaMask` `ethers.js` `React Native` `Expo` `Firebase`
-
-📎 [View Repository](https://github.com/hmzasaed/SequreChainDapp)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Multi-Agent AI Research Platform
-**Autonomous Research & Report Pipeline**
-
-A 4-agent pipeline (Search → Read → Write → Critique) built with LangChain that automates web research and multi-format report compilation, wrapped in a premium Streamlit SaaS dashboard with real-time telemetry.
-
-**Impact:** Cut token overhead by 35% via a custom semantic HTML parser that prunes boilerplate before LLM ingestion
-
-`Python` `LangChain` `Streamlit` `Tavily API` `Gemini/Groq/OpenAI` `ReportLab`
-
-📎 [View Repository](https://github.com/hmzasaed/research-assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Brain Tumor MRI Classification
-**ViT & Swin Transformer Research**
-
-Deep learning framework for automated brain tumor classification from MRI scans using Vision Transformer and Swin Transformer architectures, with Grad-CAM integrated for explainable predictions.
-
-`Python` `PyTorch` `ViT` `Swin Transformer` `OpenCV` `Scikit-learn` `Grad-CAM`
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 CoinGate Integration Web App
-**Crypto Payments Integration**
-
-Full-stack web application integrating CoinGate for cryptocurrency payment processing.
-
-`Node.js` `Express.js` `CoinGate API` `React`
-
-📎 [View Repository](https://github.com/hmzasaed/coingate-integration-webapp)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0F0C29&height=2&width=100%25" />
-
 ## 💼 Experience
 
 - **Blockchain Development Intern** · InternGrow *(Jul 2026 – Aug 2026)* — Applied smart contract & DApp development skills through the Learn · Build · Grow mentorship framework
@@ -210,7 +148,7 @@ Full-stack web application integrating CoinGate for cryptocurrency payment proce
 
 <br/><br/>
 
-*Currently building an AI-powered agentic future — one autonomous agent and one signed transaction at a time.*
+*Building intelligent, trust-verified systems — one agent and one signed transaction at a time.*
 
 <br/>
 
