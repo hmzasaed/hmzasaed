@@ -25,13 +25,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=44&text=ABOUT%20ME&fontColor=58A6FF&fontSize=20&fontAlignY=64&section=header" width="100%"/>
 </div>
 
-**🧠 Data Science · AI / ML / DL** — training & fine-tuning deep learning models (CNNs → Vision Transformers) · computer vision & NLP pipelines · turning messy data into models that ship
+**🧠 Data Science · AI / ML / DL** — training & fine-tuning deep learning models (CNNs → Vision Transformers) across computer vision and NLP.
 
-**🤖 Generative AI · RAG · Agentic Systems** — building Generative AI & RAG systems on top of vector search · designing autonomous multi-agent pipelines with LangGraph & CrewAI · prompt engineering & LLM fine-tuning
+**🤖 Generative AI · RAG · Agentic** — GenAI & RAG systems on vector search · autonomous multi-agent pipelines with LangGraph & CrewAI · LLM fine-tuning.
 
-**⛓️ Web3 / Blockchain** — smart-contract-backed DApps with real on-chain cryptographic guarantees · wallet-signature auth · end-to-end (contract + storage + frontend)
+**⛓️ Web3 / Blockchain** — end-to-end DApps with on-chain cryptographic guarantees and wallet-signature auth.
 
-**⚡ Approach** — moves fast across the full stack, picks the tool that fits — not the newest one · BS Computer Science @ Lahore Garrison University
+> BS Computer Science @ Lahore Garrison University · picks the tool that fits, not the newest one.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=44&text=TECH%20ARSENAL&fontColor=58A6FF&fontSize=20&fontAlignY=64&section=header" width="100%"/>
@@ -46,8 +46,6 @@
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=58A6FF&color=1F6FEB" />
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF&color=1F6FEB" />
 <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=58A6FF&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=58A6FF&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=58A6FF&color=1F6FEB" />
 
 <br/>
 
@@ -58,12 +56,11 @@
 <img src="https://img.shields.io/badge/CrewAI-0D1117?style=for-the-badge&color=1F6FEB" />
 <img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=for-the-badge&color=1F6FEB" />
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&color=1F6FEB" />
 <img src="https://img.shields.io/badge/LLM_Fine--Tuning-0D1117?style=for-the-badge&color=1F6FEB" />
 
 <br/>
 
-**Vector Stores & Data**
+**Vector Stores**
 
 <img src="https://img.shields.io/badge/Qdrant-0D1117?style=for-the-badge&color=58A6FF" />
 <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&color=58A6FF" />
@@ -72,15 +69,9 @@
 
 <br/>
 
-**Web & Backend**
+**Web · Backend · DevOps**
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
-
-<br/>
-
-**Databases · DevOps · Tooling**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,git&theme=dark" />
 
 <br/>
 
@@ -90,7 +81,6 @@
 <img src="https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge&logo=ethereum&logoColor=58A6FF&color=1F6FEB" />
 <img src="https://img.shields.io/badge/Hardhat-0D1117?style=for-the-badge&color=1F6FEB" />
 <img src="https://img.shields.io/badge/IPFS-0D1117?style=for-the-badge&logo=ipfs&logoColor=58A6FF&color=1F6FEB" />
-<img src="https://img.shields.io/badge/MetaMask-0D1117?style=for-the-badge&logo=metamask&logoColor=58A6FF&color=1F6FEB" />
 
 </div>
 
@@ -100,9 +90,15 @@
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=c9d1d9&border_color=1F6FEB" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hmzasaed&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&stroke=1F6FEB&border=1F6FEB" />
-<br/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzasaed&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=1F6FEB&langs_count=8" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=44&text=CONTRIBUTION%20GRAPH&fontColor=58A6FF&fontSize=20&fontAlignY=64&section=header" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/hmzasaed/hmzasaed/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <div align="center">
