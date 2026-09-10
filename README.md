@@ -94,20 +94,6 @@ On the side, I build DApps with real on-chain guarantees, from smart contract to
 </table>
 
 <br/>
-
-## `> git log --stats`
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&hide_border=true&bg_color=08111A&title_color=39D6FF&icon_color=6E4CFF&text_color=8B9BB4&ring_color=39D6FF"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzasaed&layout=compact&hide_border=true&bg_color=08111A&title_color=39D6FF&text_color=8B9BB4&langs_count=8"/>
-</div>
-
-<div align="center">
-<img src="https://github.com/hmzasaed/hmzasaed/raw/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</div>
-
-<br/>
-
 <div align="center">
 
 `> connect --with hamza`
