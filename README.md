@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Hamza Saeed, AI Engineer: Machine Learning, Deep Learning, RAG" width="100%"/>
+<img src="header.svg" alt="Hamza Saeed, AI Engineer: Machine Learning, Deep Learning, RAG" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39D6FF&center=true&vCenter=true&width=720&lines=Building+production+RAG+pipelines;Orchestrating+multi-agent+AI+systems;Training+deep+learning+models+in+PyTorch;Turning+video+into+searchable+knowledge;Shipping+smart+contracts+on-chain" alt="Typing SVG listing what Hamza builds" />
