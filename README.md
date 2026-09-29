@@ -244,19 +244,9 @@ A voice-driven desktop assistant with streaming chat that falls back across Mist
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## <img src="https://api.iconify.design/tabler/activity.svg?color=%2339D6FF" width="26" align="top" alt=""/> `git log --graph`
+<img src="divider.svg" width="100%" alt=""/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hmzasaed/hmzasaed/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hmzasaed/hmzasaed/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation eating the GitHub contribution graph" src="https://raw.githubusercontent.com/hmzasaed/hmzasaed/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
