@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Hamza Saeed, AI Engineer</title>
+  <desc id="d">Animated banner with a neural network motif</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05090F"/>
+      <stop offset="1" stop-color="#0B1622"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39D6FF"/>
+      <stop offset="0.5" stop-color="#A58BFF"/>
+      <stop offset="1" stop-color="#00D19A"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39D6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39D6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#39D6FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#39D6FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#39D6FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#39D6FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .fade  { opacity: 0; animation: fade .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .15s } .d2 { animation-delay: .45s } .d3 { animation-delay: .75s }
+    .node  { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .n2 { animation-delay: .6s } .n3 { animation-delay: 1.2s } .n4 { animation-delay: 1.8s } .n5 { animation-delay: 2.4s }
+    .edge  { stroke-dasharray: 6 8; animation: flow 2.4s linear infinite; }
+    .sweep { animation: sweep 5s cubic-bezier(.45,0,.55,1) infinite; }
+    .orb   { animation: drift 9s ease-in-out infinite alternate; }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes fade  { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    @keyframes pulse { 0%,100% { opacity: .45; transform: scale(1) } 50% { opacity: 1; transform: scale(1.35) } }
+    @keyframes flow  { to { stroke-dashoffset: -28 } }
+    @keyframes sweep { 0% { transform: translateX(-420px) } 100% { transform: translateX(1200px) } }
+    @keyframes drift { from { transform: translate(0,0) } to { transform: translate(-60px,20px) } }
+    @keyframes blink { 50% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade { animation: none; opacity: 1 }
+      .node, .edge, .sweep, .orb, .caret { animation: none }
+    }
+    .name { font: 800 64px 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; letter-spacing: -1.5px; }
+    .role { font: 600 22px 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; fill: #C9D6E3; letter-spacing: .5px; }
+    .mono { font: 500 16px 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace; fill: #6B8499; }
+    .tag  { font: 600 13px 'Cascadia Code', 'Fira Code', Consolas, monospace; letter-spacing: 1px; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="orb" cx="930" cy="150" r="260" fill="url(#glow)"/>
+
+    <!-- neural network motif -->
+    <g transform="translate(760 40)" fill="none" stroke-width="1.5">
+      <g stroke="#39D6FF" stroke-opacity=".45" class="edge">
+        <path d="M40 60 L180 30 M40 60 L180 120 M40 60 L180 210 M40 180 L180 30 M40 180 L180 120 M40 180 L180 210"/>
+      </g>
+      <g stroke="#A58BFF" stroke-opacity=".45" class="edge">
+        <path d="M180 30 L320 80 M180 120 L320 80 M180 210 L320 80 M180 30 L320 170 M180 120 L320 170 M180 210 L320 170"/>
+      </g>
+      <g stroke="#00D19A" stroke-opacity=".5" class="edge">
+        <path d="M320 80 L400 125 M320 170 L400 125"/>
+      </g>
+      <g stroke="none">
+        <circle class="node"    cx="40"  cy="60"  r="7" fill="#39D6FF"/>
+        <circle class="node n3" cx="40"  cy="180" r="7" fill="#39D6FF"/>
+        <circle class="node n2" cx="180" cy="30"  r="7" fill="#A58BFF"/>
+        <circle class="node n4" cx="180" cy="120" r="7" fill="#A58BFF"/>
+        <circle class="node n5" cx="180" cy="210" r="7" fill="#A58BFF"/>
+        <circle class="node n3" cx="320" cy="80"  r="7" fill="#A58BFF"/>
+        <circle class="node n1" cx="320" cy="170" r="7" fill="#A58BFF"/>
+        <circle class="node n2" cx="400" cy="125" r="9" fill="#00D19A"/>
+      </g>
+    </g>
+
+    <!-- copy -->
+    <g transform="translate(64 0)">
+      <g class="fade d1">
+        <rect x="0" y="62" width="176" height="28" rx="14" fill="#00D19A" fill-opacity=".12" stroke="#00D19A" stroke-opacity=".5"/>
+        <circle cx="18" cy="76" r="4" fill="#00D19A" class="node"/>
+        <text x="32" y="81" class="tag" fill="#00D19A">OPEN TO WORK</text>
+      </g>
+      <text x="0" y="160" class="name fade d2" fill="url(#brand)">Hamza Saeed</text>
+      <text x="0" y="200" class="role fade d2">AI Engineer · Machine Learning · Deep Learning · RAG</text>
+      <text x="0" y="248" class="mono fade d3">&gt; building agents that reason, retrieve and act<tspan class="caret" fill="#39D6FF">▌</tspan></text>
+    </g>
+
+    <rect class="sweep" x="0" y="316" width="420" height="4" fill="url(#sweep)"/>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#39D6FF" stroke-opacity=".18"/>
+  </g>
+</svg>
