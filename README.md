@@ -165,16 +165,9 @@ guarantees, from smart contract to frontend.
 
 <br/>
 
-## `> git log --stats`
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hmzasaed&show_icons=true&hide_border=true&bg_color=08111A&title_color=39D6FF&icon_color=39D6FF&text_color=C9D1D9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmzasaed&layout=compact&hide_border=true&bg_color=08111A&title_color=39D6FF&text_color=C9D1D9&langs_count=6"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmzasaed&bg_color=08111A&color=39D6FF&line=39D6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
 
 <br/>
 <div align="center">
@@ -188,6 +181,5 @@ guarantees, from smart contract to frontend.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hmzasaed&color=39D6FF&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
